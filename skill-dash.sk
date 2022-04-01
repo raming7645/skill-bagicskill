@@ -1,0 +1,7 @@
+command /skill [<text>]:
+ trigger:
+  if arg-1 is "대쉬":
+  
+  else if arg-1 is "돌진":
+  
+  
